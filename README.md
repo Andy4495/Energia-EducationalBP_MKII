@@ -9,7 +9,7 @@ Because these examples are included in the Energia application itself, they are 
 
 ## Installation
 
-Download the Source code (zip) file from the Assets area of the [Releases][10] page. Then, from the Arduino GUI, select the `Sketch->Include Library->Add ZIP Library` menu to install the library.
+Download the Source code (zip) file from the Assets area of the [Releases][10] page. Then, from the Arduino IDE, select the `Sketch->Include Library->Add ZIP Library` menu to install the library.
 
 ## Usage
 
