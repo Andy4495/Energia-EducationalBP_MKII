@@ -9,7 +9,7 @@ Because these examples are included in the Energia application itself, they are 
 
 ## Installation
 
-Use the `Code -> Download ZIP` button in GitHub to download the library as a ZIP file. Then, from the Arduino GUI, select the `Sketch->Include Library->Add ZIP Library` to install the library.
+Download the Source code (zip) file from the Assets area of the [Releases][10] page. Then, from the Arduino GUI, select the `Sketch->Include Library->Add ZIP Library` to install the library.
 
 ## Usage
 
@@ -38,6 +38,7 @@ Please reference [`license.txt`][101] or the specific files for more details on 
 [6]: https://energia.nu/guide/tutorials/boosterpacks/tutorial_edumkii/
 [8]: ./extras/docs/
 [9]: https://github.com/energia/energia.nu
+[10]: https://github.com/Andy4495/Energia-EducationalBP_MKII/releases
 [101]: ./license.txt
 [102]: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
 [//]: # ([200]: https://github.com/Andy4495/Energia-EducationalBP_MKII)
