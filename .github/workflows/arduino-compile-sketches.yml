@@ -52,6 +52,8 @@ jobs:
             # Add library dependencies here: 
             # - source-url: https://github.com/<owner-name>/<repo-name>.git
             # - name: name-of-library-registered-with-arduino-library-manager
+            - name: Adafruit TMP006
+            - name: ClosedCube OPT3001
       - name: Print the job summary
         if: ${{ inputs.message }}
         run: |
