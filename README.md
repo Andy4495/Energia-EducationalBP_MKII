@@ -1,7 +1,7 @@
 # Energia-Educational BoosterPack MKII Examples Library
 
 [![Arduino Compile Sketches](https://github.com/Andy4495/Energia-EducationalBP_MKII/actions/workflows/arduino-compile-sketches.yml/badge.svg)](https://github.com/Andy4495/Energia-EducationalBP_MKII/actions/workflows/arduino-compile-sketches.yml)
-[![Check Markdown Links](https://github.com/Andy4495/Energia-EducationalBP_MKII/actions/workflows/CheckMarkdownLinks.yml/badge.svg)](https://github.com/Andy4495/Energia-EducationalBP_MKII/actions/workflows/CheckMarkdownLinks.yml)
+[![Check Markdown Links](https://github.com/Andy4495/Energia-EducationalBP_MKII/actions/workflows/check-links.yml/badge.svg)](https://github.com/Andy4495/Energia-EducationalBP_MKII/actions/workflows/check-links.yml)
 
 This repo is packaged as an Arduino library in order to access the EducationalBP_MKII examples that are included as part of the [Energia application][1]. It is not actually a library, but includes an `examples` folder so that Arduino will load the files and display the examples.
 
