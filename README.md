@@ -9,7 +9,7 @@ Because these examples are included in the Energia application itself, they are 
 
 ## Installation
 
-Download the Source code (zip) file from the Assets area of the [Releases][10] page. Then, from the Arduino IDE, select the `Sketch->Include Library->Add ZIP Library` menu to install the library.
+This library can be installed using the Arduino Library Manager with the library name `Energia-EBP_MKII`.
 
 ## Usage
 
