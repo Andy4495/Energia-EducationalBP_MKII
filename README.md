@@ -13,7 +13,7 @@ This library can be installed using the Arduino Library Manager with the library
 
 ## Usage
 
-The example sketches are available from the `File->Examples->Energia-EducationalBP_MKII` menu.
+The example sketches are available from the `File->Examples->Energia-EBP_MKII` menu.
 
 ## Documentation
 
