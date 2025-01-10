@@ -38,9 +38,9 @@ Please reference [`license.txt`][101] or the specific files for more details on 
 [6]: https://energia.nu/guide/tutorials/boosterpacks/tutorial_edumkii/
 [8]: ./extras/docs/
 [9]: https://github.com/energia/energia.nu
-[10]: https://github.com/Andy4495/Energia-EducationalBP_MKII/releases
 [101]: ./license.txt
 [102]: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
 [//]: # ([200]: https://github.com/Andy4495/Energia-EducationalBP_MKII)
+[//]: # ([10]: https://github.com/Andy4495/Energia-EducationalBP_MKII/releases)
 
 [//]: # (This is a way to hack a comment in Markdown. This will not be displayed when rendered.)
